@@ -4,6 +4,7 @@
     <list default="true" id="5135dfd7-fd29-4e5e-9f5c-1657729317ba" name="Default" comment="" />
     <ignored path="Py_Anywhere.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
