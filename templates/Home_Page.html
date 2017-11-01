@@ -8,6 +8,13 @@
 
 This is the homepage!
 
+
+{%  for comment in comments %}
+
+    {{ comment.content }}
+
+{% endfor %}
+
 </body>
 
 </html>
